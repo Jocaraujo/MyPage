@@ -1,4 +1,27 @@
-html, body {
+html, body {;
+  background-color:#F49336;
   height: 100%;
   width: 100%;
+}
+header{
+  background-color: #171717;
+}
+h1{
+
+ font-family: 'Rubik Wet Paint', cursive;
+  font-size: 72px;
+  color: #f10909;
+}
+h2{
+  color: #DDDEBB;
+}
+p{
+  color: #FFFFFF;
+}
+ul{
+  color: #FFFFFF;
+}
+footer{
+  background-color:#E27715;
+  color: #060506
 }
